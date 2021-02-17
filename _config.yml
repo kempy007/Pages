@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+
 title: BlogSploit
 description: A collection of ramblings based on IT, Cyber Security and Cloud Native
 show_downloads: false
