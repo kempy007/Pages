@@ -3,8 +3,8 @@ title: 'Inline Linux Firewall For Those Rare Occasions'
 date: 2014-08-29T15:00:00.001+01:00
 draft: false
 aliases: [ "/2014/08/inline-linux-firewall-for-those-rare.html" ]
-nav_order: 9000
-description: "blogger"
+#nav_order: 9000
+#description: "blogger"
 permalink: docs/blogger/inline-fw 
 has_children: false
 parent: Blogger
