@@ -8,7 +8,7 @@ description: "blogger"
 permalink: docs/blogger
 has_children: false
 parent: Blogger
-has_toc: true
+has_toc: false
 ---
 
 We can base64decode the passwords table then Ascii to Hex to reveal a hash value.

@@ -5,7 +5,7 @@ description: "read books"
 permalink: docs/books
 has_children: false
 parent: Books
-has_toc: true
+has_toc: false
 nav_exclude: false
 search_exclude: false
 ---

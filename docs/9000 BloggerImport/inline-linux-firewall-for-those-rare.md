@@ -8,7 +8,7 @@ description: "blogger"
 permalink: docs/blogger
 has_children: false
 parent: Blogger
-has_toc: true
+has_toc: false
 ---
 
 [Inline Linux Firewall For Those Rare Occasions](https://www.blogger.com/null)

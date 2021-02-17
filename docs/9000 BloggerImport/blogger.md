@@ -6,6 +6,8 @@ description: "blogger"
 permalink: docs/blogger
 has_children: true
 has_toc: false
+nav_exclude: false
+search_exclude: true
 ---
 
 # Blogger
