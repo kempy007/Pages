@@ -3,6 +3,13 @@ title: 'SQL Sha1 cracking'
 date: 2017-12-29T12:10:00.000Z
 draft: false
 aliases: [ "/2017/12/sql-sha1-cracking.html" ]
+nav_order: 9000
+description: "blogger"
+has_children: false
+has_toc: false
+permalink: docs/blogger
+has_children: false
+has_toc: false
 ---
 
 We can base64decode the passwords table then Ascii to Hex to reveal a hash value.

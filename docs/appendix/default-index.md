@@ -1,3 +1,14 @@
+---
+title: Appendix
+nav_order: 10000
+description: "appendix"
+has_children: false
+has_toc: false
+permalink: docs/appendix
+has_children: false
+has_toc: false
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kempy007/Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
