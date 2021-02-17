@@ -2,7 +2,7 @@
 title: Read Books
 nav_order: 8000
 description: "read books"
-permalink: docs/books
+permalink: docs/books/read
 has_children: false
 parent: Books
 has_toc: false

@@ -5,7 +5,7 @@ draft: false
 aliases: [ "/2017/12/sql-sha1-cracking.html" ]
 nav_order: 9000
 description: "blogger"
-permalink: docs/blogger
+permalink: docs/blogger/sql-sha-crack
 has_children: false
 parent: Blogger
 has_toc: false

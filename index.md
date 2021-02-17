@@ -5,6 +5,15 @@ nav_order: 1
 permalink: /
 ---
 
-# Title 1
+# About
+A collection of ramblings based on IT, Cyber Security and Cloud Native
 
-# Title 2
+---
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
