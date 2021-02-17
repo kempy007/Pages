@@ -2,11 +2,11 @@
 title: Appendix
 nav_order: 10000
 description: "appendix"
-has_children: false
-has_toc: false
 permalink: docs/appendix
 has_children: false
 has_toc: false
+nav_exclude: true
+search_exclude: true
 ---
 
 ## Welcome to GitHub Pages

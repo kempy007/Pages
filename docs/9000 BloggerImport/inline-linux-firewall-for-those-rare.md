@@ -5,11 +5,10 @@ draft: false
 aliases: [ "/2014/08/inline-linux-firewall-for-those-rare.html" ]
 nav_order: 9000
 description: "blogger"
-has_children: false
-has_toc: false
 permalink: docs/blogger
 has_children: false
-has_toc: false
+parent: Blogger
+has_toc: true
 ---
 
 [Inline Linux Firewall For Those Rare Occasions](https://www.blogger.com/null)
