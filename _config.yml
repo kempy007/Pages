@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: BlogSploit
 description: A collection of ramblings based on IT, Cyber Security and Cloud Native
+show_downloads: false
+logo: /assets/img/Troll.jpg
