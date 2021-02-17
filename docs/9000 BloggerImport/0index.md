@@ -12,3 +12,13 @@ search_exclude: true
 
 # Blogger
 Old Blogs imported, may have badlinks or missing pictures and other formatting issues.
+
+---
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
