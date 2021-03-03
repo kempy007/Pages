@@ -20,7 +20,7 @@ I wanted to do more edge, less cloud, and I had seen the balena project and quit
 | Optical Cable | [justboom £4](https://shop.justboom.co/products/optical-cable-1m?_pos=3&_sid=9d0dac9a7&_ss=r) |
 | micro SDHC card PNY 32gb | [argos £5.99](https://www.argos.co.uk/product/7314751) |
 | Soundbar/hifi with optical input | Should have already |
-|||
+| | |
 | | £70.47 each vs Sonos port @ £399 |
 
 # Software Config
