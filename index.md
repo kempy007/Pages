@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # About
-A collection of ramblings based on IT, Cyber Security and Cloud Native
+A collection of ramblings based on IT, Cyber Security and Cloud Native. Here be security goblins!!
 
 ---
 
