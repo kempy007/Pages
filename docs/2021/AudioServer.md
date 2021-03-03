@@ -10,6 +10,7 @@ parent: 2021
 I wanted to do more edge, less cloud, and I had seen the balena project and quite fancied the challenge to setup multiroom audio. To do this with a computer half the size of a post it label is quite something. Whilst I didn't meet my original goal and had to compromise with the software I was still able to accomplish something useful.
 
 # Hardware
+
 |part|supplier|
 |---|---|
 | PiZeroWH (The extra H means headers solder on) | [PiHut £13.50](https://thepihut.com/products/raspberry-pi-zero-wh-with-pre-soldered-header?variant=547332849681&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=EAIaIQobChMIlvCzr9mU7wIVVODtCh3-cgcbEAQYASABEgLp3fD_BwE) |
@@ -19,7 +20,7 @@ I wanted to do more edge, less cloud, and I had seen the balena project and quit
 | Optical Cable | [justboom £4](https://shop.justboom.co/products/optical-cable-1m?_pos=3&_sid=9d0dac9a7&_ss=r) |
 | micro SDHC card PNY 32gb | [argos £5.99](https://www.argos.co.uk/product/7314751) |
 | Soundbar/hifi with optical input | Should have already |
-|---|---|
+|||
 | | £70.47 each vs Sonos port @ £399 |
 
 # Software Config
