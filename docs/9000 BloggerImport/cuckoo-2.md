@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: 'Cuckoo 2.0 (Server virtualised)'
 date: 2016-03-01T19:06:00.003Z
 draft: false
 aliases: [ "/2016/03/cuckoo-2.html" ]
