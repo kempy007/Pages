@@ -1,11 +1,13 @@
 ---
-title: Getting Started in the Industry when you have no experience.
+title: Getting Started in the IT Industry when you have no experience.
 parent: Mentoring
 ---
 
-# Getting Started in the Industry when you have no experience.
+# Getting Started in the IT Industry when you have no experience.
 
-This is a really hard place to give advice, whether you are fresh out of school, university or even a mid career change. I will tell you why I feel this is difficult to answer, It simply boils down to lack of experience, having not tried to do things in areas outside of your comfort zone, or getting stuck and not having someone you can ask and get a good answer that unblocks your attempt, when we get stuck often we give up. I'm certainly someone who has started more projects than they have completed, they all have value in building knowledge and experiences that I can draw upon in new projects that are successful.
+This is a really hard place to give advice, whether you are fresh out of school, university or even a mid career change. 
+I will tell you why I feel this is difficult to answer! 
+You may be unsure/apprehensive about where to invest your energy, so without a clear intent I can only give some pointers on how to get started! You should try to do things in areas outside of your comfort zone, it helps having someone you can ask and hopefully get a good answer that unblocks your attempt (build connections on linkedin), when we get stuck often we give up after x attempts. I'm certainly someone who has started more projects than they have completed, they all have value in building knowledge and experiences that I can draw upon in new projects that are successful.
 
 So my first piece of key advice is to never give up, every failed attempt is a new lesson learned, failing faster is learning faster, sometimes you have to wait a day or maybe even years for that eureka moment that solves any given problem, keep reading, keep iterating until you find success. 
 
