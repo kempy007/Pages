@@ -1,5 +1,5 @@
 ---
-title: mentoring
+title: Mentoring
 nav_order: mentoring
 description: "Blogs"
 permalink: docs/mentoring
