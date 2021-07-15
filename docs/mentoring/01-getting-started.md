@@ -1,6 +1,6 @@
 ---
 title: Getting Started in the Industry when you have no experience.
-parent: mentoring
+parent: Mentoring
 ---
 
 # Getting Started in the Industry when you have no experience.
