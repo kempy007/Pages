@@ -10,6 +10,7 @@ aliases: [ "/2014/08/inline-linux-firewall-for-those-rare.html" ]
 parent: Blogger
 #has_toc: false
 ---
+#### date: 2014-08-29
 
 [Inline Linux Firewall For Those Rare Occasions](https://www.blogger.com/null)
 ------------------------------------------------------------------------------

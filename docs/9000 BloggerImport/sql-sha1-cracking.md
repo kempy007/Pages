@@ -10,6 +10,7 @@ aliases: [ "/2017/12/sql-sha1-cracking.html" ]
 parent: Blogger
 #has_toc: false
 ---
+#### date: 2017-12-29
 
 We can base64decode the passwords table then Ascii to Hex to reveal a hash value.
 
