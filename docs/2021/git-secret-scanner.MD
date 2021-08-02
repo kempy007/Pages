@@ -1,7 +1,7 @@
 ---
 title: Git Leaked Application Service Secrets Enumeration Scanner (aka Glasses)
 parent: 2021
-
+tags: kubernetes scanner programming
 ---
 # Git Leaked Application Service Secrets Enumeration Scanner (aka Glasses)
 
