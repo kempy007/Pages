@@ -1,6 +1,7 @@
 ---
 title: Getting Started in the IT Industry when you have no experience.
 parent: Mentoring
+tags: mentoring
 ---
 
 # Getting Started in the IT Industry when you have no experience.
