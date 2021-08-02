@@ -1,7 +1,7 @@
 ---
 title: Multi Room Audio with Pi Zero & Dac with piCorePlayer
 parent: 2021
-
+tags: rpi audio hardware
 ---
 #### 03/03/2021
 
