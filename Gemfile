@@ -1,7 +1,8 @@
 source "https://rubygems.org"
-#gemspec
+gemspec
 
+gem "webrick", "~> 1.7"
 gem "bundler"
 gem "jekyll"
 gem "rake"
-#gem "just-the-docs"
+gem "just-the-docs/just-the-docs"
